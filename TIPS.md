@@ -1,6 +1,6 @@
 # Módulo 07 - Arquitetura Flux
 
-## Steps
+## Installation Steps
 
 1. Instalar o react a partir do react-app
    `yarn create react-app modulo05`
